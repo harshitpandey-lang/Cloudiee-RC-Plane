@@ -88,6 +88,37 @@ electronics/
 '''
 
 ---
-youtube-
-drive-
-lapse-
+### Lessons Learned 
+
+This project provided practical experience in:
+
+- Aircraft design
+- Aerodynamics
+- Embedded electronics
+- Power systems
+- Rc communication
+- Structural engineering
+- Flight testing
+- Troubleshooting and iteration
+
+More importantly, it demonstrates at successful engineering rarely works perfectly on the First attempt. Many improvements came directly from failures observed during testing aand subsequent designs,
+
+---
+
+## Future Improvemensts
+
+Planned Upgrades includes:
+
+- FPV camera system
+- Onboard telemetry
+- GPS tracking
+- Flight stabilisation system
+- Custom Ground Control Station
+- Autonomous waypoint Navcigation
+- Improved airframe effeciency
+- long range communication system
+
+---
+### Acknowledgements
+
+Special thanks to the Hack Club community and their eventm called fallout for which I am glad to be a part of 
