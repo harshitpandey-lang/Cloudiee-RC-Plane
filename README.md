@@ -8,7 +8,7 @@ This is an RC plane build for Fallout Event of Hackclub. This plane is my first 
 ## Overview
 
 This is the first RC Plane of mine I have made it with two materials 1st sunboard and 2nd depron sheet of 5mm and if it is made from sunboard it will not fly. because of the weight.Instead of purchasing a ready made aircrafti have tried to make one.This repository documents the complete development phase ofg the plane. This is my first entry in  RC planes and stuffs related the picture of the plane is given here:
-<img width="1920" height="2560" alt="6091376151566684167" src="https://github.com/user-attachments/assets/30b0a1ba-8ef1-4bda-8a1e-47d8839ee3f6" />
+
 
 ---
 
@@ -20,7 +20,7 @@ This is the first RC Plane of mine I have made it with two materials 1st sunboar
 - Perform real World flight testing and tuning
 - Document the entire process
 - Create a platform that can be upgraded in the future with telemetry, FPV, and Autonomous capabilities
-<img width="1920" height="2560" alt="6091376151566684167" src="https://github.com/user-attachments/assets/834ea6ff-ef93-44b6-8318-ac2e1970e0c6" />
+
 
 ---
 ## Aircraft Specifications
