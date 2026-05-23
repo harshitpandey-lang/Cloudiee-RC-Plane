@@ -1,3 +1,5 @@
+<img width="874" height="1240" alt="orginal zine" src="https://github.com/user-attachments/assets/ea4e00ef-7983-4988-9c1a-3f12a9bacdcb" />
+
 # Cloudiee-RC-Plane
 This is an RC plane build for Fallout Event of Hackclub. This plane is my first plane to be made to enter in the aerospace. This plane is for training purpose since my next project is to make a ground controll station. 
 
