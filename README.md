@@ -76,6 +76,61 @@ A complete Bill of Materials can be found in:
 ---
 BOM.md
 ---
+## Build Guide
+
+### Materials
+
+- Sunboard or 5mm Depron Sheet
+- A2212 1400KV Motor
+- SimonK 30A ESC
+- 2200mAh LiPo Battery
+- FlySky Receiver
+- 9g Servos
+- XT60 Connector
+- Hot Glue
+
+### Measurements
+
+Wing:
+80 cm × 15 cm
+
+Length:
+58 cm
+
+### Assembly Steps
+
+1. Cut wing sections.
+2. Assemble fuselage.
+3. Attach tail section.
+4. Install servos.
+5. Install motor.
+6. Connect ESC and receiver.
+7. Mount battery.
+8. Test electronics.
+9. Balance aircraft.
+10. Prepare for flight testing.
+
+### Wiring
+
+Battery
+↓
+ESC
+↓
+Motor
+
+Receiver
+↓
+Elevator Servo
+
+Receiver
+↓
+Rudder Servo
+
+Receiver
+↓
+Aileron Servo
+
+See hardware/bom.csv for component details.
 
 ## Electronics System
 The aircraft electronics consists of:
