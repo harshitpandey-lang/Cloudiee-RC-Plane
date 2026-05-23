@@ -18,6 +18,11 @@ Observations:
 
 Time Tracked: 4h 51m
 
+
+
+https://github.com/user-attachments/assets/f92009dd-70ab-490e-b0d8-3cc0846ce863
+
+
 ---
 
 ## May 20, 2026 – Fuselage and Electronics Integration
@@ -44,6 +49,13 @@ Lessons Learned:
 - Lower weight materials can significantly improve flight performance.
 
 Time Tracked: 2h 53m
+
+
+
+
+
+https://github.com/user-attachments/assets/905cb337-ec15-4e63-80e5-32894e92b6ac
+
 
 ---
 
@@ -80,3 +92,9 @@ Next Steps:
 - Redesign using lighter materials if necessary
 
 Time Tracked: 53m
+
+
+Uploading video6089396321507090121.mp4…
+
+
+
