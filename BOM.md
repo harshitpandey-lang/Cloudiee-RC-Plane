@@ -20,8 +20,8 @@
 
 | Component | Quantity | Approx. Cost (₹) | Source |
 |------------|------------|------------|------------|
-| 5mm Depron Sheet | 2 Sheets | 300 | Chandni Chowk, Delhi |
-| Sunboard Sheet | 1 Sheet | 150 | Chandni Chowk, Delhi |
+| 5mm Depron Sheet | 2 Sheets | 1000 | online from tanish rc india |
+| Sunboard Sheet | 1 Sheet | 260 | Atta market , Noida |
 | Carbon Reinforcement Rods (Optional) | As Required | 150 | Chandni Chowk, Delhi |
 | Control Horns | 3 | 60 | Chandni Chowk, Delhi |
 | Push Rod Wire | 2 | 50 | Chandni Chowk, Delhi |
@@ -35,8 +35,7 @@
 | Hot Glue Sticks | Pack | 150 |
 | Fevibond / Foam Safe Adhesive | 1 | 100 |
 | Electrical Tape | 1 Roll | 30 |
-| Heat Shrink Tubes | Assorted | 50 |
-| Zip Ties | Pack | 50 |
+
 
 ---
 
@@ -84,7 +83,7 @@ https://www.amazon.in/s?k=FlySky+receiver
 | Category | Cost (₹) |
 |------------|------------|
 | Electronics | ~4250 |
-| Airframe Materials | ~710 |
+| Airframe Materials | ~1520 |
 | Consumables | ~380 |
 | Miscellaneous | ~300 |
 
