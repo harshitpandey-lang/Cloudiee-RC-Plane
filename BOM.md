@@ -92,3 +92,6 @@ https://www.amazon.in/s?k=FlySky+receiver
 Approximately ₹5600–₹6500
 
 (Note: The transmitter was already owned. If purchased separately, add approximately ₹5000–₹7000.)
+<img width="1200" height="1600" alt="tools and hardware" src="https://github.com/user-attachments/assets/dce548f5-7776-4e74-bb3b-595c784d300f" />
+<img width="1200" height="1600" alt="WhatsApp Image 2026-05-21 at 10 43 07 PM" src="https://github.com/user-attachments/assets/a0b8016b-4e0f-4f77-82d2-7a5bc73f2af2" />
+<img width="800" height="600" alt="6091376151566684165" src="https://github.com/user-attachments/assets/72abb413-b3f8-4ef2-a58e-17d030633f84" />
