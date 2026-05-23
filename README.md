@@ -8,6 +8,8 @@ This is an RC plane build for Fallout Event of Hackclub. This plane is my first 
 ## Overview
 
 This is the first RC Plane of mine I have made it with two materials 1st sunboard and 2nd depron sheet of 5mm and if it is made from sunboard it will not fly. because of the weight.Instead of purchasing a ready made aircrafti have tried to make one.This repository documents the complete development phase ofg the plane. This is my first entry in  RC planes and stuffs related the picture of the plane is given here:
+<img width="1920" height="2560" alt="6091376151566684167" src="https://github.com/user-attachments/assets/30b0a1ba-8ef1-4bda-8a1e-47d8839ee3f6" />
+
 ---
 
 ---
@@ -18,6 +20,7 @@ This is the first RC Plane of mine I have made it with two materials 1st sunboar
 - Perform real World flight testing and tuning
 - Document the entire process
 - Create a platform that can be upgraded in the future with telemetry, FPV, and Autonomous capabilities
+<img width="1920" height="2560" alt="6091376151566684167" src="https://github.com/user-attachments/assets/834ea6ff-ef93-44b6-8318-ac2e1970e0c6" />
 
 ---
 ## Aircraft Specifications
@@ -34,6 +37,7 @@ This is the first RC Plane of mine I have made it with two materials 1st sunboar
 | Servos | MicroServo 9g |
 | Radio System | Flysky FS-i6 |
 | Propellar | 10*4.5 R |
+<img width="1280" height="720" alt="29a50790-a8a4-493f-962d-816dea0add7d" src="https://github.com/user-attachments/assets/18d30bc0-0ee4-46c7-8f28-dddda9604810" />
 
 NOTE : some other things wee also used such as glue gun, Thermacol cutter, Scale and other geometrical tools, Wires spare , XT60 connector etc 
 ---
@@ -82,6 +86,7 @@ The aircraft electronics consists of:
 - Control Linkages
 
 deatiled wirings of the electronics can be found here 
+<img width="1175" height="661" alt="1fde0f3a-9efa-44f4-9804-6df43b7f1c4e" src="https://github.com/user-attachments/assets/6bed20d6-0b89-4f62-bf03-71f7e22f0c80" />
 
 '''
 electronics/
@@ -102,6 +107,7 @@ This project provided practical experience in:
 - Troubleshooting and iteration
 
 More importantly, it demonstrates at successful engineering rarely works perfectly on the First attempt. Many improvements came directly from failures observed during testing aand subsequent designs,
+<img width="1920" height="2560" alt="6091376151566684169" src="https://github.com/user-attachments/assets/69fb4f09-a768-46d3-82f1-8c9676dad03c" />
 
 ---
 
@@ -122,3 +128,9 @@ Planned Upgrades includes:
 ### Acknowledgements
 
 Special thanks to the Hack Club community and their eventm called fallout for which I am glad to be a part of 
+<img width="1086" height="1448" alt="plane cartoon" src="https://github.com/user-attachments/assets/4313155d-f971-4617-80d7-89db321cfac1" />
+<img width="1200" height="1600" alt="d5b039aa-bd4c-4296-bffe-3dafa6de689c" src="https://github.com/user-attachments/assets/048c2466-f1a7-4e06-b87b-1f5f3aad42bb" />
+<img width="1200" height="1600" alt="86f96b41-da4b-4228-ae72-a7de3674151a" src="https://github.com/user-attachments/assets/dc7a4640-0b51-4a9b-aaba-c740260c1941" />
+<img width="1200" height="1600" alt="b66bb6da-c36d-483f-9ba9-ded64c0f626d" src="https://github.com/user-attachments/assets/6c1bea11-0a89-47c0-87b4-5e9738561558" />
+
+
