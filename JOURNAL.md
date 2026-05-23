@@ -3,6 +3,8 @@
 ## May 19, 2026 – Wing Construction
 
 Today I started building my first RC plane. Since my original project was getting delayed because of components, I decided to move ahead with building an RC aircraft to learn the basics of aerospace systems and RC electronics.
+<img width="1200" height="1600" alt="tools and hardware" src="https://github.com/user-attachments/assets/21a2e239-8176-484f-91d3-1acdc0f3c4f3" />
+<img width="1200" height="1600" alt="44157477-fd65-49fe-8e8f-f0b49818c84a" src="https://github.com/user-attachments/assets/51bda42c-1fcd-40e8-bd80-878ba67cd07a" />
 
 Work Completed:
 - Designed and built the main wing section
@@ -21,6 +23,9 @@ Time Tracked: 4h 51m
 ## May 20, 2026 – Fuselage and Electronics Integration
 
 Today I completed the main body of the aircraft and started integrating the electronics.
+<img width="1200" height="1600" alt="34145377-a868-4d2d-a5b4-f1a7f6aed708" src="https://github.com/user-attachments/assets/f838339a-d10e-4139-b8e9-6444d5d698ab" />
+<img width="1200" height="1600" alt="d5b039aa-bd4c-4296-bffe-3dafa6de689c" src="https://github.com/user-attachments/assets/659b051c-c20e-4def-8e37-c749cd358411" />
+<img width="1200" height="1600" alt="8d25ec6a-dda2-400b-a79a-32511ef69449" src="https://github.com/user-attachments/assets/f58ac300-a5d7-4971-bcef-6781a79e9fae" />
 
 Work Completed:
 - Built the fuselage
@@ -45,6 +50,9 @@ Time Tracked: 2h 53m
 ## May 21, 2026 – Final Assembly and System Testing
 
 Today I completed almost all remaining work on the aircraft.
+<img width="1200" height="1600" alt="WhatsApp Image 2026-05-21 at 10 43 07 PM" src="https://github.com/user-attachments/assets/4a72d1f5-3fef-432b-a827-e4b80863efab" />
+<img width="1920" height="2560" alt="6091376151566684167" src="https://github.com/user-attachments/assets/020f6f91-2af4-4928-a96a-9d672a0ba89a" />
+<img width="800" height="600" alt="6091376151566684165" src="https://github.com/user-attachments/assets/84150284-532c-4834-b0c5-64f1e40d0002" />
 
 Work Completed:
 - Attached the wings to the fuselage
