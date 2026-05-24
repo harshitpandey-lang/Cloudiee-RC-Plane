@@ -1,10 +1,10 @@
-Component,Quantity,Approx Cost (INR),Source
-A2212 1400KV Motor,1,700,Chandni Chowk Delhi
-SimonK 30A ESC,1,500,Chandni Chowk Delhi
-9g Servo,3,450,Chandni Chowk Delhi
-FlySky Receiver,1,1200,Chandni Chowk Delhi
-ABSD 2200mAh LiPo Battery,1,1200,Chandni Chowk Delhi
-XT60 Connector,1,50,Chandni Chowk Delhi
-Depron Sheet,2,300,Chandni Chowk Delhi
-Sunboard Sheet,1,150,Chandni Chowk Delhi
-Glue and Consumables,1,300,Chandni Chowk Delhi
+Component,Quantity,Approx Cost (INR),Source,links,
+A2212 1400KV Motor,1,700,Chandni Chowk Delhi,https://www.amazon.in/Robocraze-A2212-1400KV-Simonk-Drones/dp/B0DNYZ5VP9/ref=sr_1_11?sr=8-11,
+SimonK 30A ESC,1,500,Chandni Chowk Delhi,https://www.amazon.in/Robocraze-A2212-1400KV-Simonk-Drones/dp/B0DNYZ5VP9/ref=sr_1_11?sr=8-11
+9g Servo,3,450,Chandni Chowk Delhi,https://www.amazon.in/Bydroid-Degree-Rotation-Continuous-Planes/dp/B0D9VPTTXW/ref=sr_1_7?sr=8-7,
+FlySky Receiver,1,1200,Chandni Chowk Delhi,https://www.amazon.in/Robocraze-Channel-Transmitter-Receiver-Quadcoopter/dp/B071XK5R59/ref=sr_1_4?nsdOptOutParam=true&sr=8-4,
+ABSD 2200mAh LiPo Battery,1,1200,Chandni Chowk Delhi,https://www.amazon.in/MatLogix-11-1V-2200mAh-Cells-Battery/dp/B0GDFFGPSQ/ref=sr_1_1?sr=8-1,
+XT60 Connector,1,50,Chandni Chowk Delhi,https://www.amazon.in/Universal-Hub-XT60-Connector-Pin/dp/B0GSBHVRFV/ref=sr_1_5?sr=8-5,
+Depron Sheet,2,300,Chandni Chowk Delhi,https://www.amazon.in/Tanish-Rc-Premium-Depron-Aircraft/dp/B0G43V4S5W/ref=sr_1_1?nsdOptOutParam=true&sr=8-1,
+Sunboard Sheet,1,150,Chandni Chowk Delhi,https://www.amazon.in/Lakeer-Lightweight-Signboard-Reflector-Photography/dp/B0BRY2TYBQ/ref=sr_1_7?sr=8-7,
+Glue and Consumables,1,300,Chandni Chowk Delhi,https://www.amazon.in/Walkers-Electronic-Soldering-Standard-Temperature/dp/B09GMDH2M3/ref=sr_1_5?sr=8-5,
