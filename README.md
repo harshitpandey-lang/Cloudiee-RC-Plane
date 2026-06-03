@@ -1,3 +1,6 @@
+<img width="2550" height="3300" alt="cloudiee ziune small" src="https://github.com/user-attachments/assets/5ef33226-ec23-4579-9704-8c7ddfcbe49e" />
+
+
 
 
 # Cloudiee-RC-Plane
