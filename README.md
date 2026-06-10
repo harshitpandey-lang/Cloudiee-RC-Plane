@@ -1,4 +1,4 @@
-<img width="2550" height="3300" alt="cloudiee ziune small" src="https://github.com/user-attachments/assets/5ef33226-ec23-4579-9704-8c7ddfcbe49e" />
+<img width="874" height="1240" alt="WhatsApp Image 2026-06-10 at 12 48 47 PM" src="https://github.com/user-attachments/assets/b55846bc-fc78-487f-9efe-aafcde6b36bf" />
 
 
 
