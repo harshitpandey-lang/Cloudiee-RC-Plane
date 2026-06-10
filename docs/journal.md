@@ -94,7 +94,8 @@ Next Steps:
 Time Tracked: 53m
 
 
-Uploading video6089396321507090121.mp4…
+
+<img width="874" height="1240" alt="WhatsApp Image 2026-06-10 at 12 48 47 PM" src="https://github.com/user-attachments/assets/ac1aca8d-338d-4820-8ca5-8f9571c0cbbe" />
 
 
 
