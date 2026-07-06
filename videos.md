@@ -18,9 +18,7 @@ https://drive.google.com/file/d/1PbB-cr2HxI6eec-Wfx9kMP1yIneufN5Y/view
 
 ## Flight Test
 
-No flight footage is currently available.
 
-The aircraft was completed and all electronics were tested successfully, however the overall aircraft weight became significantly higher than expected due to the use of sunboard material. Before attempting a maiden flight, a lighter Depron-based version is planned.
 
 
 https://github.com/user-attachments/assets/d601d5fc-ffdd-4af1-8799-b11cd04f9b12
