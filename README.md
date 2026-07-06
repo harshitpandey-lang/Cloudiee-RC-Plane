@@ -1,4 +1,3 @@
-<img width="874" height="1240" alt="WhatsApp Image 2026-06-11 at 3 47 06 PM" src="https://github.com/user-attachments/assets/ee7a0ea9-81ca-4d9f-9756-a0c0f49e5a32" />
 
 
 
@@ -226,7 +225,5 @@ cloudiee-rc-plane/
 
 Special thanks to the Hack Club community and their event called Fallout for which I am glad to be a part of.
 
-<img width="1086" height="1448" alt="plane cartoon" src="https://github.com/user-attachments/assets/4313155d-f971-4617-80d7-89db321cfac1" />
-<img width="1200" height="1600" alt="d5b039aa-bd4c-4296-bffe-3dafa6de689c" src="https://github.com/user-attachments/assets/048c2466-f1a7-4e06-b87b-1f5f3aad42bb" />
-<img width="1200" height="1600" alt="86f96b41-da4b-4228-ae72-a7de3674151a" src="https://github.com/user-attachments/assets/dc7a4640-0b51-4a9b-aaba-c740260c1941" />
+
 <img width="1200" height="1600" alt="b66bb6da-c36d-483f-9ba9-ded64c0f626d" src="https://github.com/user-attachments/assets/6c1bea11-0a89-47c0-87b4-5e9738561558" />
