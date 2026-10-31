@@ -176,7 +176,7 @@ Today I completed the RC Plane and its all most done and ready to fly but since 
 
 ### Content
 
-![orginal zine.jpeg](<https://fallout.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTg5MjQsInB1ciI6ImJsb2JfaWQifX0=--5f200e9627fa2fe2512ead43b93e667296301354/orginal zine.jpeg>)
+
 
 The Rc Plane is completed and Yesterday I tested it it broke out after the launch and the reason is its enormous weight I have ordered depron sheets which are ideal and best for rc plane but I used a material called sunboard which was my biggest mistake I was very excited and commited such a mistake Now I will make another one with the same electronics but with different airframe.
 
