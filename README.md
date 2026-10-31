@@ -5,7 +5,8 @@
 
 # Cloudiee-RC-Plane
 
-This is an RC plane build for Fallout Event of Hackclub. This plane is my first plane to be made to enter in the aerospace. This plane is for training purpose since my next project is to make a ground control station for all kind of UAVs and autonomous or human controlled bots etc.
+This is an RC plane build for Hackclub. This plane is my first plane to be made to enter in the aerospace. This plane is for training purpose since my next project is to make a ground control station for all kind of UAVs and autonomous or human controlled bots etc.
+Note: this project was shipped in fallout but was not approved and thus i am shipping again in forge. the project is made with watching a tutorial and my own self as well. I have watched a tutorial as well to make this project and also have used my own hardwares for the project. I have spent my own money and also time in this project please consider it.
 
 
 <img width="1200" height="1600" alt="b66bb6da-c36d-483f-9ba9-ded64c0f626d" src="https://github.com/user-attachments/assets/44e840d4-652b-4627-b1ce-6868217838ff" />
@@ -223,7 +224,7 @@ cloudiee-rc-plane/
 ---
 ### Acknowledgements
 
-Special thanks to the Hack Club community and their event called Fallout for which I am glad to be a part of.
+Special thanks to the Hack Club community and their events for which I am glad to be a part of.
 
 
 <img width="1200" height="1600" alt="b66bb6da-c36d-483f-9ba9-ded64c0f626d" src="https://github.com/user-attachments/assets/6c1bea11-0a89-47c0-87b4-5e9738561558" />
