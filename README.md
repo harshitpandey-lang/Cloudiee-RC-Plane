@@ -9,7 +9,7 @@ This is an RC plane build for Hackclub. This plane is my first plane to be made 
 
 # Note for reviewer
 
-this project was shipped in fallout but was not approved and thus i am shipping again in forge. the project is made with watching a tutorial and my own self as well. I have watched a tutorial as well to make this project and also have used my own hardwares for the project. I have spent my own money and also time in this project please consider it.
+this project was shipped in fallout but was not approved and thus I am shipping again in forge. the project is made with watching a tutorial and my own self as well. I have watched a tutorial to make since I don't wanted to make it fail since I was using all of my resources and since it was my first project with hackclub so i wasn't also unaware that tutorials can not be used. please review it i am open if even if some time of this project is even considered.
 
 
 <img width="1200" height="1600" alt="b66bb6da-c36d-483f-9ba9-ded64c0f626d" src="https://github.com/user-attachments/assets/44e840d4-652b-4627-b1ce-6868217838ff" />
