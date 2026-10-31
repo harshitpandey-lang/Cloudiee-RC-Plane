@@ -359,7 +359,7 @@ making the zine page in mobile phone as the pc is not much handy for the image e
 # June 3, 2026: Uploading the zine
 
 zine page uploading process in the lapse is shown and the zine is also completed now for submission .&#x20;
-
+![WhatsApp Image 2026-06-11 at 3.47.06 PM.jpeg](https://fallout.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzExNjYsInB1ciI6ImJsb2JfaWQifX0=--d5d5bba615eb1134ebeff6c5396feb422d6f0372/WhatsApp%20Image%202026-06-11%20at%203.47.06%20PM.jpeg)
 
 **Recording Links**
 
@@ -367,12 +367,6 @@ zine page uploading process in the lapse is shown and the zine is also completed
 
 **Total time spent: 14 minutes**
 
-# June 10, 2026: Updating the zine and repository
-
-Today i completed the zine page again and updated the github repo and am ready to resubmit. The zine page now looks like a magzine book front now
-
-
-**Total time spent: X**
 
 # June 11, 2026: Updating the zine for submission
 the zine is comleted and good to go and the project si completed 
