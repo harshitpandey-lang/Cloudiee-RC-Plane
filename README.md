@@ -6,7 +6,9 @@
 # Cloudiee-RC-Plane
 
 This is an RC plane build for Hackclub. This plane is my first plane to be made to enter in the aerospace. This plane is for training purpose since my next project is to make a ground control station for all kind of UAVs and autonomous or human controlled bots etc.
-#Note for reviewer
+
+# Note for reviewer
+
 this project was shipped in fallout but was not approved and thus i am shipping again in forge. the project is made with watching a tutorial and my own self as well. I have watched a tutorial as well to make this project and also have used my own hardwares for the project. I have spent my own money and also time in this project please consider it.
 
 
