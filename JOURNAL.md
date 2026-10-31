@@ -242,7 +242,6 @@ Today I completed the RC Plane and its all most done and ready to fly but since 
 
 # May 23, 2026: First launch and rebuilding plan
 
-![orginal zine.jpeg](https://fallout.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTg5MjQsInB1ciI6ImJsb2JfaWQifX0=--5f200e9627fa2fe2512ead43b93e667296301354/orginal%20zine.jpeg)
 
 The Rc Plane is completed and Yesterday I tested it it broke out after the launch and the reason is its enormous weight I have ordered depron sheets which are ideal and best for rc plane but I used a material called sunboard which was my biggest mistake I was very excited and commited such a mistake Now I will make another one with the same electronics but with different airframe.
 
@@ -361,7 +360,6 @@ making the zine page in mobile phone as the pc is not much handy for the image e
 
 zine page uploading process in the lapse is shown and the zine is also completed now for submission .&#x20;
 
-![zine cloudiee.png](https://fallout.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjYwODIsInB1ciI6ImJsb2JfaWQifX0=--a1d71273b7e4655f726b638436a4d7ef8c51b97f/zine%20cloudiee.png)
 
 **Recording Links**
 
@@ -373,7 +371,6 @@ zine page uploading process in the lapse is shown and the zine is also completed
 
 Today i completed the zine page again and updated the github repo and am ready to resubmit. The zine page now looks like a magzine book front now
 
-[![WhatsApp Image 2026-06-10 at 12.48.47 PM.jpeg](https://github.com/user-attachments/assets/ac1aca8d-338d-4820-8ca5-8f9571c0cbbe)](<https://fallout.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzA0ODUsInB1ciI6ImJsb2JfaWQifX0=--81d139bec90646f61190dd38c79cfccdaf90e9c2/WhatsApp Image 2026-06-10 at 12.48.47 PM.jpeg>)
 
 **Total time spent: X**
 
