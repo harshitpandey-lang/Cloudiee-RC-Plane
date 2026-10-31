@@ -247,7 +247,7 @@ The Rc Plane is completed and Yesterday I tested it it broke out after the launc
 
 The iamges of the plane is given here&#x20;
 
-The zine page and the github repo is completed today not everything is recorded in lapse as I have done some work on my phone and some on my pc&#x20;
+The github repo is completed today not everything is recorded in lapse as I have done some work on my phone and some on my pc&#x20;
 
 [![6091376151566684167.jpg](https://github.com/user-attachments/assets/020f6f91-2af4-4928-a96a-9d672a0ba89a)](https://fallout.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTg5MjEsInB1ciI6ImJsb2JfaWQifX0=--4067fd566dc586c960eb0432a220369f3f4ca4c1/6091376151566684167.jpg)
 
