@@ -33,12 +33,14 @@ the look of the plane is here as of the wing is only completed&#x20;
 
 ### Recording Links
 
-- [https://public.lapse-hackclub.link/timelapses/hJ1ECIg0X-id/timelapse-hJ1ECIg0X-id.mp4](https://public.lapse-hackclub.link/timelapses/hJ1ECIg0X-id/timelapse-hJ1ECIg0X-id.mp4)
-- [https://public.lapse-hackclub.link/timelapses/FKezIaeLaaXl/timelapse-FKezIaeLaaXl.mp4](https://public.lapse-hackclub.link/timelapses/FKezIaeLaaXl/timelapse-FKezIaeLaaXl.mp4)
-- [https://public.lapse-hackclub.link/timelapses/i5_xSF35zUps/timelapse-i5_xSF35zUps.mp4](https://public.lapse-hackclub.link/timelapses/i5_xSF35zUps/timelapse-i5_xSF35zUps.mp4)
-- [https://public.lapse-hackclub.link/timelapses/NU1MCGT6IFx5/timelapse-NU1MCGT6IFx5.mp4](https://public.lapse-hackclub.link/timelapses/NU1MCGT6IFx5/timelapse-NU1MCGT6IFx5.mp4)
-- [https://public.lapse-hackclub.link/timelapses/NYz7C_buGru1/timelapse-NYz7C_buGru1.mp4](https://public.lapse-hackclub.link/timelapses/NYz7C_buGru1/timelapse-NYz7C_buGru1.mp4)
-- [https://public.lapse-hackclub.link/timelapses/6ZmQWHAaCPon/timelapse-6ZmQWHAaCPon.mp4](https://public.lapse-hackclub.link/timelapses/6ZmQWHAaCPon/timelapse-6ZmQWHAaCPon.mp4)
+- [https://public.lapse-hackclub.link/timelapses/hJ1ECIg0X-id/timelapse-hJ1ECIg0X-id.mp4](https://public.lapse-hackclub.link/timelapses/hJ1ECIg0X-id/timelapse-hJ1ECIg0X-id.mp4) — [Rc 1](https://lapse.hackclub.com/timelapse/hJ1ECIg0X-id), 15m tracked
+- [https://public.lapse-hackclub.link/timelapses/FKezIaeLaaXl/timelapse-FKezIaeLaaXl.mp4](https://public.lapse-hackclub.link/timelapses/FKezIaeLaaXl/timelapse-FKezIaeLaaXl.mp4) — [Rc 3](https://lapse.hackclub.com/timelapse/FKezIaeLaaXl), 58m tracked
+- [https://public.lapse-hackclub.link/timelapses/i5_xSF35zUps/timelapse-i5_xSF35zUps.mp4](https://public.lapse-hackclub.link/timelapses/i5_xSF35zUps/timelapse-i5_xSF35zUps.mp4) — [Rc pt4](https://lapse.hackclub.com/timelapse/i5_xSF35zUps), 1h 14m tracked
+- [https://public.lapse-hackclub.link/timelapses/NU1MCGT6IFx5/timelapse-NU1MCGT6IFx5.mp4](https://public.lapse-hackclub.link/timelapses/NU1MCGT6IFx5/timelapse-NU1MCGT6IFx5.mp4) — [Rc pt 4](https://lapse.hackclub.com/timelapse/NU1MCGT6IFx5), 15m tracked
+- [https://public.lapse-hackclub.link/timelapses/NYz7C_buGru1/timelapse-NYz7C_buGru1.mp4](https://public.lapse-hackclub.link/timelapses/NYz7C_buGru1/timelapse-NYz7C_buGru1.mp4) — [Rc pt 4.2](https://lapse.hackclub.com/timelapse/NYz7C_buGru1), 2m tracked
+- [https://public.lapse-hackclub.link/timelapses/6ZmQWHAaCPon/timelapse-6ZmQWHAaCPon.mp4](https://public.lapse-hackclub.link/timelapses/6ZmQWHAaCPon/timelapse-6ZmQWHAaCPon.mp4) — [Rc pt 5](https://lapse.hackclub.com/timelapse/6ZmQWHAaCPon), 2h 4m tracked
+
+**Lapse: ~4h 48m**
 
 **Total time spent: 4h 51m**
 
@@ -84,9 +86,11 @@ the final look of the plane is given here
 
 ### Recording Links
 
-- [https://public.lapse-hackclub.link/timelapses/gAp1ehSO4SV-/timelapse-gAp1ehSO4SV-.mp4](https://public.lapse-hackclub.link/timelapses/gAp1ehSO4SV-/timelapse-gAp1ehSO4SV-.mp4)
-- [https://public.lapse-hackclub.link/timelapses/yFFsdXlXbWrD/timelapse-yFFsdXlXbWrD.mp4](https://public.lapse-hackclub.link/timelapses/yFFsdXlXbWrD/timelapse-yFFsdXlXbWrD.mp4)
-- [https://public.lapse-hackclub.link/timelapses/RPRORpOnYkxd/timelapse-RPRORpOnYkxd.mp4](https://public.lapse-hackclub.link/timelapses/RPRORpOnYkxd/timelapse-RPRORpOnYkxd.mp4)
+- [https://public.lapse-hackclub.link/timelapses/gAp1ehSO4SV-/timelapse-gAp1ehSO4SV-.mp4](https://public.lapse-hackclub.link/timelapses/gAp1ehSO4SV-/timelapse-gAp1ehSO4SV-.mp4) — [Rc pt 8](https://lapse.hackclub.com/timelapse/gAp1ehSO4SV-), 37m tracked
+- [https://public.lapse-hackclub.link/timelapses/yFFsdXlXbWrD/timelapse-yFFsdXlXbWrD.mp4](https://public.lapse-hackclub.link/timelapses/yFFsdXlXbWrD/timelapse-yFFsdXlXbWrD.mp4) — [Rc pt 7](https://lapse.hackclub.com/timelapse/yFFsdXlXbWrD), 1h 35m tracked
+- [https://public.lapse-hackclub.link/timelapses/RPRORpOnYkxd/timelapse-RPRORpOnYkxd.mp4](https://public.lapse-hackclub.link/timelapses/RPRORpOnYkxd/timelapse-RPRORpOnYkxd.mp4) — [Rc pt 6](https://lapse.hackclub.com/timelapse/RPRORpOnYkxd), 40m tracked
+
+**Lapse: ~2h 52m**
 
 **Total time spent: 2h 53m**
 
@@ -132,9 +136,11 @@ here are some videos of the testing phase&#x20;
 
 ### Recording Links
 
-- [https://public.lapse-hackclub.link/timelapses/rS-qLJ9zjgcU/timelapse-rS-qLJ9zjgcU.mp4](https://public.lapse-hackclub.link/timelapses/rS-qLJ9zjgcU/timelapse-rS-qLJ9zjgcU.mp4)
-- [https://public.lapse-hackclub.link/timelapses/PLuCO22YqMVG/timelapse-PLuCO22YqMVG.mp4](https://public.lapse-hackclub.link/timelapses/PLuCO22YqMVG/timelapse-PLuCO22YqMVG.mp4)
-- [https://public.lapse-hackclub.link/timelapses/QCTiQ-WFJwZt/timelapse-QCTiQ-WFJwZt.mp4](https://public.lapse-hackclub.link/timelapses/QCTiQ-WFJwZt/timelapse-QCTiQ-WFJwZt.mp4)
+- [https://public.lapse-hackclub.link/timelapses/rS-qLJ9zjgcU/timelapse-rS-qLJ9zjgcU.mp4](https://public.lapse-hackclub.link/timelapses/rS-qLJ9zjgcU/timelapse-rS-qLJ9zjgcU.mp4) — [rc rep2](https://lapse.hackclub.com/timelapse/rS-qLJ9zjgcU), 11m tracked
+- [https://public.lapse-hackclub.link/timelapses/PLuCO22YqMVG/timelapse-PLuCO22YqMVG.mp4](https://public.lapse-hackclub.link/timelapses/PLuCO22YqMVG/timelapse-PLuCO22YqMVG.mp4) — [Rc pt 9](https://lapse.hackclub.com/timelapse/PLuCO22YqMVG), 31m tracked
+- [https://public.lapse-hackclub.link/timelapses/QCTiQ-WFJwZt/timelapse-QCTiQ-WFJwZt.mp4](https://public.lapse-hackclub.link/timelapses/QCTiQ-WFJwZt/timelapse-QCTiQ-WFJwZt.mp4) — [rc plane repo1](https://lapse.hackclub.com/timelapse/QCTiQ-WFJwZt), 10m tracked
+
+**Lapse: ~52m**
 
 **Total time spent: 53m**
 
@@ -154,11 +160,11 @@ Today I completed the RC Plane and its all most done and ready to fly but since 
 
 ### Recording Links
 
-- [https://public.lapse-hackclub.link/timelapses/OCTp6XEQ4kY3/timelapse-OCTp6XEQ4kY3.mp4](https://public.lapse-hackclub.link/timelapses/OCTp6XEQ4kY3/timelapse-OCTp6XEQ4kY3.mp4)
-- [https://public.lapse-hackclub.link/timelapses/ePMvEr8ZIOPs/timelapse-ePMvEr8ZIOPs.mp4](https://public.lapse-hackclub.link/timelapses/ePMvEr8ZIOPs/timelapse-ePMvEr8ZIOPs.mp4)
-- [https://public.lapse-hackclub.link/timelapses/x6gULgZ1BHPM/timelapse-x6gULgZ1BHPM.mp4](https://public.lapse-hackclub.link/timelapses/x6gULgZ1BHPM/timelapse-x6gULgZ1BHPM.mp4)
+- [https://public.lapse-hackclub.link/timelapses/OCTp6XEQ4kY3/timelapse-OCTp6XEQ4kY3.mp4](https://public.lapse-hackclub.link/timelapses/OCTp6XEQ4kY3/timelapse-OCTp6XEQ4kY3.mp4) — [repo rc 3](https://lapse.hackclub.com/timelapse/OCTp6XEQ4kY3), 1m tracked
+- [https://public.lapse-hackclub.link/timelapses/ePMvEr8ZIOPs/timelapse-ePMvEr8ZIOPs.mp4](https://public.lapse-hackclub.link/timelapses/ePMvEr8ZIOPs/timelapse-ePMvEr8ZIOPs.mp4) — [Rc pt 10](https://lapse.hackclub.com/timelapse/ePMvEr8ZIOPs), 26m tracked
+- [https://public.lapse-hackclub.link/timelapses/x6gULgZ1BHPM/timelapse-x6gULgZ1BHPM.mp4](https://public.lapse-hackclub.link/timelapses/x6gULgZ1BHPM/timelapse-x6gULgZ1BHPM.mp4) — [Rc pt 9](https://lapse.hackclub.com/timelapse/x6gULgZ1BHPM), 1h 23m tracked
 
-**Total time spent: X**
+**Total time spent: ~1h 50m (Lapse)**
 
 # May 23: The Rc Plane is completed
 
@@ -184,11 +190,11 @@ The zine page and the github repo is completed today not everything is recorded 
 
 ### Recording Links
 
-- [https://public.lapse-hackclub.link/timelapses/XGV4RlpiJcS0/timelapse-XGV4RlpiJcS0.mp4](https://public.lapse-hackclub.link/timelapses/XGV4RlpiJcS0/timelapse-XGV4RlpiJcS0.mp4)
-- [https://public.lapse-hackclub.link/timelapses/9cJS04QFXHRK/timelapse-9cJS04QFXHRK.mp4](https://public.lapse-hackclub.link/timelapses/9cJS04QFXHRK/timelapse-9cJS04QFXHRK.mp4)
-- [https://public.lapse-hackclub.link/timelapses/hDdhs_NHAxnU/timelapse-hDdhs_NHAxnU.mp4](https://public.lapse-hackclub.link/timelapses/hDdhs_NHAxnU/timelapse-hDdhs_NHAxnU.mp4)
+- [https://public.lapse-hackclub.link/timelapses/XGV4RlpiJcS0/timelapse-XGV4RlpiJcS0.mp4](https://public.lapse-hackclub.link/timelapses/XGV4RlpiJcS0/timelapse-XGV4RlpiJcS0.mp4) — [rc plane repo 7](https://lapse.hackclub.com/timelapse/XGV4RlpiJcS0), 44m tracked
+- [https://public.lapse-hackclub.link/timelapses/9cJS04QFXHRK/timelapse-9cJS04QFXHRK.mp4](https://public.lapse-hackclub.link/timelapses/9cJS04QFXHRK/timelapse-9cJS04QFXHRK.mp4) — [rc repo 5](https://lapse.hackclub.com/timelapse/9cJS04QFXHRK), 2m tracked
+- [https://public.lapse-hackclub.link/timelapses/hDdhs_NHAxnU/timelapse-hDdhs_NHAxnU.mp4](https://public.lapse-hackclub.link/timelapses/hDdhs_NHAxnU/timelapse-hDdhs_NHAxnU.mp4) — [rc repo4](https://lapse.hackclub.com/timelapse/hDdhs_NHAxnU), 57m tracked
 
-**Total time spent: X**
+**Total time spent: ~1h 43m (Lapse)**
 
 # May 26: I have started to make the 2.0 model of Cloudiee
 
@@ -206,13 +212,13 @@ I have started to make the 2.0 model of Cloudiee with depron sheet wich a sheet 
 
 ### Recording Links
 
-- [https://public.lapse-hackclub.link/timelapses/M_UFjg7ugHJC/timelapse-M_UFjg7ugHJC.mp4](https://public.lapse-hackclub.link/timelapses/M_UFjg7ugHJC/timelapse-M_UFjg7ugHJC.mp4)
-- [https://public.lapse-hackclub.link/timelapses/YmhQpYLBIWMp/timelapse-YmhQpYLBIWMp.mp4](https://public.lapse-hackclub.link/timelapses/YmhQpYLBIWMp/timelapse-YmhQpYLBIWMp.mp4)
-- [https://public.lapse-hackclub.link/timelapses/Gt-odWQMla3R/timelapse-Gt-odWQMla3R.mp4](https://public.lapse-hackclub.link/timelapses/Gt-odWQMla3R/timelapse-Gt-odWQMla3R.mp4)
-- [https://public.lapse-hackclub.link/timelapses/B8bDz0QYSXjp/timelapse-B8bDz0QYSXjp.mp4](https://public.lapse-hackclub.link/timelapses/B8bDz0QYSXjp/timelapse-B8bDz0QYSXjp.mp4)
-- [https://public.lapse-hackclub.link/timelapses/J6TP5hEmX94g/timelapse-J6TP5hEmX94g.mp4](https://public.lapse-hackclub.link/timelapses/J6TP5hEmX94g/timelapse-J6TP5hEmX94g.mp4)
+- [https://public.lapse-hackclub.link/timelapses/M_UFjg7ugHJC/timelapse-M_UFjg7ugHJC.mp4](https://public.lapse-hackclub.link/timelapses/M_UFjg7ugHJC/timelapse-M_UFjg7ugHJC.mp4) — [Rc 2 pt 1](https://lapse.hackclub.com/timelapse/M_UFjg7ugHJC), 1h 42m tracked
+- [https://public.lapse-hackclub.link/timelapses/YmhQpYLBIWMp/timelapse-YmhQpYLBIWMp.mp4](https://public.lapse-hackclub.link/timelapses/YmhQpYLBIWMp/timelapse-YmhQpYLBIWMp.mp4) — [Rc 2 pt5](https://lapse.hackclub.com/timelapse/YmhQpYLBIWMp), 35m tracked
+- [https://public.lapse-hackclub.link/timelapses/Gt-odWQMla3R/timelapse-Gt-odWQMla3R.mp4](https://public.lapse-hackclub.link/timelapses/Gt-odWQMla3R/timelapse-Gt-odWQMla3R.mp4) — [Rc 2 pt 3](https://lapse.hackclub.com/timelapse/Gt-odWQMla3R), 38m tracked
+- [https://public.lapse-hackclub.link/timelapses/B8bDz0QYSXjp/timelapse-B8bDz0QYSXjp.mp4](https://public.lapse-hackclub.link/timelapses/B8bDz0QYSXjp/timelapse-B8bDz0QYSXjp.mp4) — [Rc 2 pt 2](https://lapse.hackclub.com/timelapse/B8bDz0QYSXjp), 51m tracked
+- [https://public.lapse-hackclub.link/timelapses/J6TP5hEmX94g/timelapse-J6TP5hEmX94g.mp4](https://public.lapse-hackclub.link/timelapses/J6TP5hEmX94g/timelapse-J6TP5hEmX94g.mp4) — [Rc 2 pt 4](https://lapse.hackclub.com/timelapse/J6TP5hEmX94g), 28m tracked
 
-**Total time spent: X**
+**Total time spent: ~4h 14m (Lapse)**
 
 # May 27: Today I completed the second design of the aeroplane
 
@@ -236,11 +242,11 @@ So, i have to remake the body again with depron sheet.
 
 ### Recording Links
 
-- [https://public.lapse-hackclub.link/timelapses/mngBtvCq-IOn/timelapse-mngBtvCq-IOn.mp4](https://public.lapse-hackclub.link/timelapses/mngBtvCq-IOn/timelapse-mngBtvCq-IOn.mp4)
-- [https://public.lapse-hackclub.link/timelapses/b82_eb_EwWLA/timelapse-b82_eb_EwWLA.mp4](https://public.lapse-hackclub.link/timelapses/b82_eb_EwWLA/timelapse-b82_eb_EwWLA.mp4)
-- [https://public.lapse-hackclub.link/timelapses/3quaEvG8h8cf/timelapse-3quaEvG8h8cf.mp4](https://public.lapse-hackclub.link/timelapses/3quaEvG8h8cf/timelapse-3quaEvG8h8cf.mp4)
+- [https://public.lapse-hackclub.link/timelapses/mngBtvCq-IOn/timelapse-mngBtvCq-IOn.mp4](https://public.lapse-hackclub.link/timelapses/mngBtvCq-IOn/timelapse-mngBtvCq-IOn.mp4) — [Rc pt 8](https://lapse.hackclub.com/timelapse/mngBtvCq-IOn), 52m tracked
+- [https://public.lapse-hackclub.link/timelapses/b82_eb_EwWLA/timelapse-b82_eb_EwWLA.mp4](https://public.lapse-hackclub.link/timelapses/b82_eb_EwWLA/timelapse-b82_eb_EwWLA.mp4) — [Rc2 pt6](https://lapse.hackclub.com/timelapse/b82_eb_EwWLA), 12m tracked
+- [https://public.lapse-hackclub.link/timelapses/3quaEvG8h8cf/timelapse-3quaEvG8h8cf.mp4](https://public.lapse-hackclub.link/timelapses/3quaEvG8h8cf/timelapse-3quaEvG8h8cf.mp4) — [Rc2 pt7](https://lapse.hackclub.com/timelapse/3quaEvG8h8cf), 11m tracked
 
-**Total time spent: X**
+**Total time spent: ~1h 15m (Lapse)**
 
 # May 30: This one is the 3rd body I am making for the plane
 
@@ -266,10 +272,10 @@ Today on 30-05-26 till 10 pm ISt (Indian Standard Times) this project will be co
 
 ### Recording Links
 
-- [https://public.lapse-hackclub.link/timelapses/HgX-BTJmcf6R/timelapse-HgX-BTJmcf6R.mp4](https://public.lapse-hackclub.link/timelapses/HgX-BTJmcf6R/timelapse-HgX-BTJmcf6R.mp4)
-- [https://public.lapse-hackclub.link/timelapses/apl6y4Lp-RmD/timelapse-apl6y4Lp-RmD.mp4](https://public.lapse-hackclub.link/timelapses/apl6y4Lp-RmD/timelapse-apl6y4Lp-RmD.mp4)
+- [https://public.lapse-hackclub.link/timelapses/HgX-BTJmcf6R/timelapse-HgX-BTJmcf6R.mp4](https://public.lapse-hackclub.link/timelapses/HgX-BTJmcf6R/timelapse-HgX-BTJmcf6R.mp4) — [RC 2 pt 10](https://lapse.hackclub.com/timelapse/HgX-BTJmcf6R), 32m tracked
+- [https://public.lapse-hackclub.link/timelapses/apl6y4Lp-RmD/timelapse-apl6y4Lp-RmD.mp4](https://public.lapse-hackclub.link/timelapses/apl6y4Lp-RmD/timelapse-apl6y4Lp-RmD.mp4) — [Rc 2 pt 9](https://lapse.hackclub.com/timelapse/apl6y4Lp-RmD), 1h 54m tracked
 
-**Total time spent: X**
+**Total time spent: ~2h 26m (Lapse)**
 
 # May 31: The plane is completed and ready for testing
 
@@ -287,9 +293,9 @@ The plane is completed and ready for testing and i will do the testing tomorrow 
 
 ### Recording Links
 
-- [https://public.lapse-hackclub.link/timelapses/GXGSDJPXQqSN/timelapse-GXGSDJPXQqSN.mp4](https://public.lapse-hackclub.link/timelapses/GXGSDJPXQqSN/timelapse-GXGSDJPXQqSN.mp4)
+- [https://public.lapse-hackclub.link/timelapses/GXGSDJPXQqSN/timelapse-GXGSDJPXQqSN.mp4](https://public.lapse-hackclub.link/timelapses/GXGSDJPXQqSN/timelapse-GXGSDJPXQqSN.mp4) — [Rc 2 pt 12](https://lapse.hackclub.com/timelapse/GXGSDJPXQqSN), 35m tracked
 
-**Total time spent: X**
+**Total time spent: ~35m (Lapse)**
 
 # June 2: I have some what created the Zine page
 
@@ -307,10 +313,10 @@ I have some what created the Zine page and the process is also documented and I 
 
 ### Recording Links
 
-- [https://public.lapse-hackclub.link/timelapses/Cb3ZYlBHcjT9/timelapse-Cb3ZYlBHcjT9.mp4](https://public.lapse-hackclub.link/timelapses/Cb3ZYlBHcjT9/timelapse-Cb3ZYlBHcjT9.mp4)
-- [https://public.lapse-hackclub.link/timelapses/wF-MPpo4DEK1/timelapse-wF-MPpo4DEK1.mp4](https://public.lapse-hackclub.link/timelapses/wF-MPpo4DEK1/timelapse-wF-MPpo4DEK1.mp4)
+- [https://public.lapse-hackclub.link/timelapses/Cb3ZYlBHcjT9/timelapse-Cb3ZYlBHcjT9.mp4](https://public.lapse-hackclub.link/timelapses/Cb3ZYlBHcjT9/timelapse-Cb3ZYlBHcjT9.mp4) — [making of zine page pt 1](https://lapse.hackclub.com/timelapse/Cb3ZYlBHcjT9), 1h 5m tracked
+- [https://public.lapse-hackclub.link/timelapses/wF-MPpo4DEK1/timelapse-wF-MPpo4DEK1.mp4](https://public.lapse-hackclub.link/timelapses/wF-MPpo4DEK1/timelapse-wF-MPpo4DEK1.mp4) — [Rc 2 Pt 9 repo creation and video editing](https://lapse.hackclub.com/timelapse/wF-MPpo4DEK1), 40m tracked
 
-**Total time spent: X**
+**Total time spent: ~1h 45m (Lapse)**
 
 # June 3: making the zine page in mobile phone
 
@@ -328,10 +334,10 @@ making the zine page in mobile phone as the pc is not much handy for the image e
 
 ### Recording Links
 
-- [https://public.lapse-hackclub.link/timelapses/LT5YbY8p4GE5/timelapse-LT5YbY8p4GE5.mp4](https://public.lapse-hackclub.link/timelapses/LT5YbY8p4GE5/timelapse-LT5YbY8p4GE5.mp4)
-- [https://public.lapse-hackclub.link/timelapses/w-jcrfwaFxhE/timelapse-w-jcrfwaFxhE.mp4](https://public.lapse-hackclub.link/timelapses/w-jcrfwaFxhE/timelapse-w-jcrfwaFxhE.mp4)
+- [https://public.lapse-hackclub.link/timelapses/LT5YbY8p4GE5/timelapse-LT5YbY8p4GE5.mp4](https://public.lapse-hackclub.link/timelapses/LT5YbY8p4GE5/timelapse-LT5YbY8p4GE5.mp4) — [Making of zine in phone pt 2](https://lapse.hackclub.com/timelapse/LT5YbY8p4GE5), 36m tracked
+- [https://public.lapse-hackclub.link/timelapses/w-jcrfwaFxhE/timelapse-w-jcrfwaFxhE.mp4](https://public.lapse-hackclub.link/timelapses/w-jcrfwaFxhE/timelapse-w-jcrfwaFxhE.mp4) — [Making of zine in phone pt 1](https://lapse.hackclub.com/timelapse/w-jcrfwaFxhE), 14m tracked
 
-**Total time spent: X**
+**Total time spent: ~50m (Lapse)**
 
 # June 3: zine page uploading process
 
@@ -349,9 +355,9 @@ zine page uploading process in the lapse is shown and the zine is also completed
 
 ### Recording Links
 
-- [https://public.lapse-hackclub.link/timelapses/fkNoj5h9GKxC/timelapse-fkNoj5h9GKxC.mp4](https://public.lapse-hackclub.link/timelapses/fkNoj5h9GKxC/timelapse-fkNoj5h9GKxC.mp4)
+- [https://public.lapse-hackclub.link/timelapses/fkNoj5h9GKxC/timelapse-fkNoj5h9GKxC.mp4](https://public.lapse-hackclub.link/timelapses/fkNoj5h9GKxC/timelapse-fkNoj5h9GKxC.mp4) — [uploading zine for the cloudiee](https://lapse.hackclub.com/timelapse/fkNoj5h9GKxC), 14m tracked
 
-**Total time spent: X**
+**Total time spent: ~14m (Lapse)**
 
 # June 10: Today i completed the zine page again
 
@@ -391,6 +397,6 @@ Please
 
 ### Recording Links
 
-- [https://public.lapse-hackclub.link/timelapses/m8IA5eoSBfHe/timelapse-m8IA5eoSBfHe.mp4](https://public.lapse-hackclub.link/timelapses/m8IA5eoSBfHe/timelapse-m8IA5eoSBfHe.mp4)
+- [https://public.lapse-hackclub.link/timelapses/m8IA5eoSBfHe/timelapse-m8IA5eoSBfHe.mp4](https://public.lapse-hackclub.link/timelapses/m8IA5eoSBfHe/timelapse-m8IA5eoSBfHe.mp4) — [requesting](https://lapse.hackclub.com/timelapse/m8IA5eoSBfHe), 1m tracked
 
-**Total time spent: X**
+**Total time spent: ~1m (Lapse)**
