@@ -378,15 +378,7 @@ Today i completed the zine page again and updated the github repo and am ready t
 **Total time spent: X**
 
 # June 11, 2026: Updating the zine for submission
-
-I have updated the zine page again please approved this is my 4th submission all because of the zine page. please approved if you find any provblem please report i will correct it asap but approve it please.
-
-Please
-
-Please
-
-Please
-
+the zine is comleted and good to go and the project si completed 
 ![WhatsApp Image 2026-06-11 at 3.47.06 PM.jpeg](https://fallout.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzExNjYsInB1ciI6ImJsb2JfaWQifX0=--d5d5bba615eb1134ebeff6c5396feb422d6f0372/WhatsApp%20Image%202026-06-11%20at%203.47.06%20PM.jpeg)
 
 **Recording Links**
